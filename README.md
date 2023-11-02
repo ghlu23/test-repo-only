@@ -1,2 +1,2 @@
 # test-repo-only
-Created to test some rules and subscription for OSPO
+Created to test some rules and subscription
