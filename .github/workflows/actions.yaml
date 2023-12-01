@@ -1,5 +1,4 @@
 name: Fetch and acknowledge contributors
-
 on:
   push:
     branches:
